@@ -1,0 +1,3 @@
+Make: Mercedes, Model: E200, Year: 2018, Price: $20000.0, Horsepower: 150, Mileage: 20000 km, Previous Owners: 4
+Make: Mercedes, Model: E63s, Year: 2020, Price: $2019.0, Horsepower: 695, Warranty: 2 years
+Make: BMW, Model: M5, Year: 2020, Price: $100000.0, Horsepower: 685, Mileage: 20000 km, Previous Owners: 1

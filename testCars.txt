@@ -1,0 +1,1 @@
+Make: Chevrolet, Model: Malibu, Year: 2018, Price: $18000.0, Horsepower: 140, Mileage: 50000 km, Previous Owners: 2
